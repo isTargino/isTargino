@@ -1,22 +1,32 @@
-## Hi, I'm Isabela! 👋
+<img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
-<!--
-**isTargino/isTargino** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<p align="left"> 
+  <strong>Hi, I'm Isabela Targino 👋</strong>.<br>
+  I'm passionate about technology, science, and sports.
+</p>
 
-Here are some ideas to get you started:
+<p align="left">
+  👩🏻‍💻 <strong>Programming Languages:</strong> Java, Javascript, C, and Python.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="left">
+  ⚙️ <strong>Tech Stack: </strong><br>
+  Backend & APIs: Spring Boot<br>
+  Cloud & Infrastructure: AWS<br>
+  Databases: DynamoDB and MySQL<br>
+  Containeres: Docker<br>
+</p>
 
-I am a Software Engineering Developer in progress, passionate about technology and problem-solving. Currently focused on Java, Springboot, databases, and system architecture, while also exploring cloud concepts and NoSQL solutions like DynamoDB. I'm always learning, building practical projects, and improving one commit at a time!
+<p align="left">
+  💌 Feel free to reach out for collaborations, opportunities, or tech discussions. ⤵️
+</p>
 
-### Technologies
-
+<p align="center">
+  <a href="https://br.linkedin.com/in/isabelatargino">
+    <img src="https://img.shields.io/badge/-LinkedIn-00AB33?style=flat-square&logo=Linkedin&logoColor=white">
+  </a>
+  <a href="mailto:isabelatargino89@gmail.com">
+    <img src="https://img.shields.io/badge/-isabelatargino89@gmail.com-00AB33?style=flat-square&logo=Gmail&logoColor=white">
+  </a>
+</p>
 
