@@ -15,6 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-I am a Developer in progress, passionate about technology and problem-solving. Currently focused on Java, Springboot, databases, and system architecture, while also exploring cloud concepts and NoSQL solutions like DynamoDB. I'm always learning, building practical projects, and improving one commit at a time! Welcome to my GitHub!
+I am a Software Engineering Developer in progress, passionate about technology and problem-solving. Currently focused on Java, Springboot, databases, and system architecture, while also exploring cloud concepts and NoSQL solutions like DynamoDB. I'm always learning, building practical projects, and improving one commit at a time!
+
+### Technologies
 
 
