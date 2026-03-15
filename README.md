@@ -5,7 +5,7 @@
 <img src="https://raw.githubusercontent.com/MicaelliMedeiros/micaellimedeiros/master/image/computer-illustration.png" alt="ilustração de um computador" min-width="400px" max-width="400px" width="400px" align="right">
 
 <p align="left"> 
-  <strong>Hi, I'm Isabela Targino 👋</strong>.<br>
+  <strong>Hi, I'm Isabela Targino 👋</strong><br>
   I'm passionate about technology, science, and sports. Currently a Tech Apprentice at <a href="https://www.amazon.com.br/">Amazon</a>.
 </p>
 
